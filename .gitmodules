@@ -1,3 +1,6 @@
 [submodule "development-example.wiki"]
 	path = development-example.wiki
 	url = https://github.com/dcmcshan/development-example.wiki.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/dcmcshan/development-example.wiki.git
